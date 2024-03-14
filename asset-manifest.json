@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.770361e5.css",
+    "main.js": "/myPortfolio/static/js/main.c74d2808.js",
+    "static/js/453.1407b060.chunk.js": "/myPortfolio/static/js/453.1407b060.chunk.js",
+    "static/media/programming-background-with-person-working-with-codes-computer.jpg": "/myPortfolio/static/media/programming-background-with-person-working-with-codes-computer.86c66569a3e124d88c5b.jpg",
+    "static/media/Hotel-site.png": "/myPortfolio/static/media/Hotel-site.b09818fd12cba5a2a45a.png",
+    "static/media/flat-lay-photo-office-desk-with-laptop-copy-space-background.jpg": "/myPortfolio/static/media/flat-lay-photo-office-desk-with-laptop-copy-space-background.1b360e0e066e81bd4c1f.jpg",
+    "static/media/Travel-Website.png": "/myPortfolio/static/media/Travel-Website.80c8960cfb8414d21cf7.png",
+    "static/media/HackerRank.png": "/myPortfolio/static/media/HackerRank.37b618c6e8845b8c453a.png",
+    "static/media/HackerRank3.png": "/myPortfolio/static/media/HackerRank3.aef2296d5e1a2d48b213.png",
+    "static/media/HackerRank1.png": "/myPortfolio/static/media/HackerRank1.d8edc0a7a103eb522f4a.png",
+    "static/media/HackerRank2.png": "/myPortfolio/static/media/HackerRank2.898fcfb04a62f2f83606.png",
+    "static/media/Welcome-to-FindMyParking.png": "/myPortfolio/static/media/Welcome-to-FindMyParking.c0a5d337e470149f4dee.png",
+    "static/media/Cemera-App.png": "/myPortfolio/static/media/Cemera-App.aae3221e8bb50c1381bd.png",
+    "static/media/ImportedPhoto_1709728437815.jpg": "/myPortfolio/static/media/ImportedPhoto_1709728437815.5cd21a34a6bb4c5afabb.jpg",
+    "static/media/jwelrytown.png": "/myPortfolio/static/media/jwelrytown.03b08d8926f361a48b55.png",
+    "static/media/Coursera1.png": "/myPortfolio/static/media/Coursera1.2743521bb012100e18c1.png",
+    "static/media/Coursera.png": "/myPortfolio/static/media/Coursera.d9c0f281bdf6fae1b3e5.png",
+    "static/media/Coursera2.png": "/myPortfolio/static/media/Coursera2.eb514c9bb6ecfa647178.png",
+    "static/media/whatsapp.png": "/myPortfolio/static/media/whatsapp.29acd5a481b15ecc2762.png",
+    "static/media/paysants.png": "/myPortfolio/static/media/paysants.8afc073875f1470e1667.png",
+    "static/media/indsac.jpg": "/myPortfolio/static/media/indsac.fde2d980add1a4a129d8.jpg",
+    "static/media/instagram.png": "/myPortfolio/static/media/instagram.1792ff30fb032c94685c.png",
+    "static/media/github.png": "/myPortfolio/static/media/github.f3d873d71aa989badfd2.png",
+    "static/media/linkedin.png": "/myPortfolio/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "static/media/c-badge.png": "/myPortfolio/static/media/c-badge.cf63e559b9d5e056073d.png",
+    "index.html": "/myPortfolio/index.html",
+    "main.770361e5.css.map": "/myPortfolio/static/css/main.770361e5.css.map",
+    "main.c74d2808.js.map": "/myPortfolio/static/js/main.c74d2808.js.map",
+    "453.1407b060.chunk.js.map": "/myPortfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.770361e5.css",
+    "static/js/main.c74d2808.js"
+  ]
+}
