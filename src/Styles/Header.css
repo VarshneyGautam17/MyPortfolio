@@ -1,0 +1,23 @@
+.header{
+    z-index: 1;
+    /* background-color: rgba(87, 87, 87); */
+    background-color: rgba(112, 128, 144);
+
+}
+.navlink{
+    color:black;
+    font-weight:400;
+    font-size:1.2rem;
+}
+.navlink:hover{
+    color:black;
+  border-bottom: 2px solid black;
+}
+.navbrand{
+    color:black;
+    font-weight:500;
+    font-size:2.2rem;
+}
+.navbrand:hover{
+    color:black;
+}

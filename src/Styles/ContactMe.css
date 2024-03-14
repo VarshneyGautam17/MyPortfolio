@@ -1,0 +1,32 @@
+.contactme{
+    height:auto;
+    background-color: white;
+    /* padding: 5rem; */
+    padding-bottom: 2rem;
+}
+.contactme_subcon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.social_logo{
+    width: 3rem;
+    height: 3rem;
+    margin: 0.6rem;
+}
+.social_links a{
+    cursor: pointer;
+    
+}
+.social_links a:hover{
+
+    transform: scale(1.1);
+}
+.social_links_i a{
+    cursor: pointer;
+}
+.social_links_i a:hover{
+
+    transform: scale(1.1) !important;
+}

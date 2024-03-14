@@ -1,0 +1,12 @@
+
+.maincon2_container_subcon_sub1{
+    height:auto;
+}
+.maincon2_subcon2{
+    cursor:pointer;
+    transition: all 100ms ease-in-out;
+    
+}
+.maincon2_subcon2:hover{
+            transform: scale(1.02);
+}

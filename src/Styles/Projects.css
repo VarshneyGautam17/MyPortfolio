@@ -1,0 +1,10 @@
+.projects_container{
+    height:auto;
+    background-color: rgb(112, 128, 144);
+    padding-bottom: 1rem;
+    margin: 0px;
+}
+.projects_container_subcon{
+    background-color: rgb(255,255,255);
+    color: black;
+}

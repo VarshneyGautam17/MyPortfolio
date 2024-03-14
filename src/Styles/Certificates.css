@@ -1,0 +1,13 @@
+.certificates_container{
+    height:auto;
+    background-color: rgb(112, 128, 144);
+    /* padding: 5rem; */
+    padding-bottom: 1rem;
+    margin: 0px;
+}
+.certificates_container_subcon{
+    background-color: rgb(255,255,255);
+    color: black;
+    height: auto;
+    /* border:1px solid red; */
+}
