@@ -23,17 +23,18 @@ function WorkExp() {
             </h2>
             <h5 className='text-start'>Frontend Developer</h5>
             <p className='text-start'> Jan 2024-Present</p>
-            <p className='text-start pb-1 m-0' style={{color:"gray"}}>Working on <a href="https://kanakdrishtiinfo.com/" style={{textDecoration:"none"}}>kanakdrishtiinfo.com</a>
+            <p className='text-start pb-1 m-0' style={{color:"gray"}}>Working on <a href="https://kanakdrishtiinfo.com/" style={{textDecoration:"none"}}>kanakdrishtiinfo.com</a> and  <a href="https://paysants.in/" style={{textDecoration:"none"}}>Paysants.in</a>
             </p>
-            
               <li style={{textAlign:"start",marginLeft:"1rem",color:"gray"}}>Created all Services Section.</li>
               <li style={{textAlign:"start",marginLeft:"1rem",color:"gray"}}>Created all Packages Section etc.</li>
               <li style={{textAlign:"start",marginLeft:"1rem",color:"gray"}}>Working on Html, Css, Javascript to build all the above things.</li>
-            <p className='text-start pb-1 m-0' style={{color:"gray"}}>Working on <a href="https://paysants.in/" style={{textDecoration:"none"}}>Paysants.in</a>
+            <p className='text-start pb-1 m-0' style={{color:"gray"}}>Fully Created   <a href="https://mytaxsavvy.com/" style={{textDecoration:"none"}}>mytaxsavvy.com</a> a Website for Tax consultancy and ITR filing. 
             </p>
-            <li style={{textAlign:"start",marginLeft:"1rem",color:"gray"}}>Created all Services Section.</li>
-              <li style={{textAlign:"start",marginLeft:"1rem",color:"gray"}}>Working all Payment Sections etc.</li>
-              <li style={{textAlign:"start",marginLeft:"1rem",color:"gray"}}>Working on Html, Css, Javascript to build all the above things.</li>
+            <p className='text-start pb-1 m-0' style={{color:"gray"}}>Worked on Frontend of E-commerce Website <a href="https://swayamenterprises.com/" style={{textDecoration:"none"}}>swayamenterprises.com</a> . 
+            </p> 
+            <p className='text-start pb-1 m-0' style={{color:"gray"}}>Worked on Frontend of E-commerce Website <a href="https://clawsarmwrestling.com/" style={{textDecoration:"none"}}>clawsarmwrestling.com</a> . 
+            </p> 
+
           </div>
         </div>
         <div className='c0l-12 d-flex flex-wrap justify-content-center mt-4'>
