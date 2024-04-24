@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.770361e5.css",
-    "main.js": "/myPortfolio/static/js/main.c74d2808.js",
+    "main.js": "/myPortfolio/static/js/main.6c1c0296.js",
     "static/js/453.1407b060.chunk.js": "/myPortfolio/static/js/453.1407b060.chunk.js",
     "static/media/programming-background-with-person-working-with-codes-computer.jpg": "/myPortfolio/static/media/programming-background-with-person-working-with-codes-computer.86c66569a3e124d88c5b.jpg",
     "static/media/Hotel-site.png": "/myPortfolio/static/media/Hotel-site.b09818fd12cba5a2a45a.png",
@@ -27,11 +27,11 @@
     "static/media/c-badge.png": "/myPortfolio/static/media/c-badge.cf63e559b9d5e056073d.png",
     "index.html": "/myPortfolio/index.html",
     "main.770361e5.css.map": "/myPortfolio/static/css/main.770361e5.css.map",
-    "main.c74d2808.js.map": "/myPortfolio/static/js/main.c74d2808.js.map",
+    "main.6c1c0296.js.map": "/myPortfolio/static/js/main.6c1c0296.js.map",
     "453.1407b060.chunk.js.map": "/myPortfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.770361e5.css",
-    "static/js/main.c74d2808.js"
+    "static/js/main.6c1c0296.js"
   ]
 }
