@@ -5,6 +5,8 @@ import jwelrytown from "../Images/jwelrytown.png"
 import Travel from "../Images/Travel-Website.png"
 import Hotel from "../Images/Hotel-site.png"
 import Cemera from "../Images/Cemera-App.png"
+import mytaxsavvy from "../Images/mytaxsavvy.PNG"
+import pesynergy from "../Images/pesynergy.PNG"
 import Maincon2 from './Maincon2';
 import Maincon3 from './Maincon3';
 
@@ -22,6 +24,9 @@ function Projects() {
     <Maincon2 heading="GETYOURTRIP" image={Travel} paratext="The travel website, meticulously crafted with React, showcases an immersive carousel component, enriched by HTML, CSS, and Bootstrap for fluid image transitions. Utilizing React hooks like useState and useEffect optimizes interactivity and state management, culminating in a captivating, user-friendly journey for travelers exploring destinations." url="https://varshneygautam17.github.io/travel-site/"/>
     <Maincon3 heading="Radiant Retreats" image={Hotel} paratext="The hotel website, meticulously crafted with React, presents an immersive carousel component, enriched by HTML, CSS, and Bootstrap for seamless image transitions. Employing React hooks such as useState and useEffect enhances interactivity and streamlines state management, resulting in a captivating, user-friendly experience for guests browsing accommodation options." url="https://varshneygautam17.github.io/Hotel_site/"/>
     <Maincon2 heading="SAMTECH COMNET" image={Cemera} paratext="The camera website, crafted with React, features a visually captivating carousel component powered by HTML, CSS, and Bootstrap, ensuring smooth image transitions. Through clever implementation of React hooks and concepts like useState and useEffect, it delivers seamless interactivity and streamlined state management, resulting in a user-friendly and engaging browsing experience." url="https://varshneygautam17.github.io/cemera_site/"/>
+    <Maincon3 heading="TaxSavvy" image={mytaxsavvy} paratext="The TaxSavvy website, built using React.js, features a user-friendly interface and an exceptional user experience. Utilizing hooks, events, and effects, it offers seamless functionality for tax filing and advisory services. The site includes components like Accordion for detailed information and responsive design, ensuring optimal performance across all devices, providing users with a smooth and engaging experience." url="https://www.mytaxsavvy.com/"/>
+    <Maincon2 heading="Pesynergy" image={pesynergy} paratext="PeSynergy, developed using HTML, CSS, and JavaScript, streamlines the search for the ideal payment partner through AI technology. The platform simplifies onboarding for Payment Service Providers (PSPs), ensuring secure transactions and offering comprehensive data analysis for valuable insights. With email integration and the unique AIpayxpert feature, PeSynergy identifies the best global payment gateways for each country. The site supports scalability, personalized client support, and empowers merchants and PSPs for success in the fintech industry." url="https://pesynergy.com/"/>
+
     </div>
 </div>
   )
